@@ -14,7 +14,8 @@ port(
     NorthGreen  : out std_logic;
     WestRed     : out std_logic;
     WestYellow  : out std_logic;
-    WestGreen   : out std_logic);
+    WestGreen   : out std_logic
+    );
 end entity;
   
 architecture rtl of FSM is

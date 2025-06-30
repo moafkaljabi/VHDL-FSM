@@ -45,7 +45,7 @@ architecture sim of FSM_TB is
 begin
   
     -- The Device Under Test (DUT)
-    i_TrafficLights : entity work.FSM_TB(rtl)
+    i_TrafficLights : entity work.FSM(rtl)
     generic map(ClockFrequencyHz => ClockFrequencyHz)
     port map (
         Clk         => Clk,
