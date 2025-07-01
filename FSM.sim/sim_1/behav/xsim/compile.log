@@ -1,4 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/moafk/FPGA-Projets/VHDL-FSM/FSM.srcs/sources_1/new/FSM.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'FSM'
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/moafk/FPGA-Projets/VHDL-FSM/FSM.srcs/sim_1/new/FSM_TB.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'FSM_TB'
